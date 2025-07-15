@@ -15,4 +15,4 @@
 - Dashboard de Análise de Dados
 - Sistema de Notas em C
 
-📫 Me chama para conversar: [seu e-mail ou LinkedIn aqui]
+📫 Me chama para conversar: [linsiago88@gmail.com]
