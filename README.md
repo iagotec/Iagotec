@@ -7,7 +7,7 @@
 
 ## 🚀 Tecnologias que estou aprendendo:
 - Python, Pandas, SQL
-- PySimpleGUI, HTML, CSS, JavaScript, PHP
+- PySimpleGUI, HTML, CSS, JavaScript
 - C (básico)
 
 ## 🧠 Projetos em destaque
